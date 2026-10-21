@@ -8,15 +8,11 @@
 
 ###
 
-<img data-importer="image" align="left" height="211" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt5ZnE2bjhoYTMwa2N2dWV1dDZiN2RiNnowN3R0ZGhxOGxycXBtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4YaJRKJG4w9xM6SSD/giphy.gif"  />
+<br clear="both">
 
-###
-
-<img data-importer="image" align="left" height="191" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk5cWt6cWRtN3dtZ255YW43aHptb2VteGVtNG9zenNpMHZwZnNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-
-###
-
-<img data-importer="image" align="left" height="195" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvq2lU_PvFvRTXOO4IEzVAPqDzgokOY7s_VsIkDV1H6by5FOIwdcbjIuE&s=10"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="195" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvq2lU_PvFvRTXOO4IEzVAPqDzgokOY7s_VsIkDV1H6by5FOIwdcbjIuE&s=10"  />
+</div>
 
 ###
 
